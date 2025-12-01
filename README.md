@@ -10,7 +10,7 @@ The dataset enables analysis of:
 
 ---
 
-## 📊 Dashboard Objectives
+## Dashboard Objectives
 
 The dashboard supports:
 
@@ -22,7 +22,7 @@ The dashboard supports:
 
 ---
 
-## 🗂 Dataset Structure
+## Dataset Structure
 
 The dataset uses a simple star schema:
 
@@ -71,7 +71,7 @@ Daily asset financial metrics on **NYSE trading days only** (3+ years of data).
 
 ---
 
-## ⚙️ Data Generation
+## Data Generation
 
 A Python script generates realistic asset activity data including:
 - 20+ assets across multiple categories

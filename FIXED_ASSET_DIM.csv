@@ -1,0 +1,21 @@
+id,date,name,group,location
+FA10045,20110127,Desktop PC,Computers,Headquarter 2nd Floor
+FA10046,20190417,Delivery Van,Company Vehicles,Warehouse
+FA10047,20171109,Corporate headquarters,Buildings & Structures,Corporate Headquarter
+FA10048,20150409,Copy machine,Office equipment,Headquarter 1st Floor
+FA10049,20150313,Electricity Generator (25 KVA),Plant Equipment,Warehouse Second Site
+FA10050,20200422,Executive desk,Furniture & Fixture,Headquarter 2nd Floor
+FA10051,20110113,Executive car - L Series,Vehicles,Corporate Headquarter
+FA10052,20180516,Executive car - S Series,Vehicles,Corporate Headquarter
+FA10053,20120601,Band saw,Machinery & Equipment,Production Site Second Floor
+FA10054,20110217,Exhaust machine,Machinery & Equipment,Production Site Third Floor
+FA10055,20160427,Book case,Furniture & Fixture,Headquarter 2nd Floor
+FA10056,20210916,Arm tiler chair,Furniture & Fixture,Headquarter 2nd Floor
+FA10057,20181031,Color Printer 1,Computers,Production Site First Floor
+FA10058,20190220,Color Printer 2,Computers,Corporate Headquarter
+FA10059,20180813,Fax machine,Office equipment,Headquarter 1st Floor
+FA10060,20190610,Filing cabinet - 3 drawer,Furniture & Fixture,Warehouse First Site
+FA10061,20160229,Air Conditioner 1,Office Hardware,Production Site First Floor
+FA10062,20110718,Air Conditioner 2,Office Hardware,Production Site
+FA10063,20200130,Electric Forklift,Plant Equipment,Warehouse Second Site
+FA10064,20150529,CNC Milling Machine,Machinery & Equipment,Production Site Ground Floor
